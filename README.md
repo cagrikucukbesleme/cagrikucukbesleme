@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cagrikucukbesleme
 - 👀 I’m interested in Java Backend Devlopment.
-- 🌱 I’m currently working for iConecWave as a Junior Software Engineer.
-- I’m currently learning Java, Spring, Hibernate, Spring data Jpa, Docker
+- 🌱 I’m currently working for Optiim as a Java Software Engineer.
+- I’m currently using Java, Aws, SpringBoot, Hibernate, Docker, Jenkins, Dev-Ops, Unit-test
 - You can review my Library project that I developed using the Spring web application.[Library Project](https://github.com/cagrikucukbesleme/LibraryProject-JavaSpringBoot)
 - 📫 How to reach me: 
 - Linkedin : [cagrikucukbesleme](https://www.linkedin.com/in/cagrikucukbesleme/)
